@@ -40,7 +40,7 @@
 .food-item-img-container{
     position: relative;
 }
-.food-item-img-container.add{
+.food-item-img-container .add{
     width: 35px;
     position: absolute;
     bottom: 15px;
@@ -60,6 +60,10 @@
     border-radius: 50px;
     background-color: rgb(229, 203, 203);
 }
+
+.food-item-counter img{
+    width: 30px;
+} 
 
 
 

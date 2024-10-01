@@ -117,7 +117,8 @@ export const menu_list = [
     }]
 
 export const food_list = [
-    {
+    {    
+       
         _id: "1",
         name: "Greek salad",
         image: food_1,
@@ -126,6 +127,7 @@ export const food_list = [
         category: "Salad"
     },
     {
+      
         _id: "2",
         name: "Veg salad",
         image: food_2,
@@ -133,6 +135,7 @@ export const food_list = [
         description: "Food provides essential nutrients for overall health and well-being",
         category: "Salad"
     }, {
+       
         _id: "3",
         name: "Clover Salad",
         image: food_3,
